@@ -26,10 +26,6 @@
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Agustian-Star&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
 ###
 
 <div align="left">
@@ -53,6 +49,10 @@ Here are some of my works and documents:
 * 📁 **Portfolio (Google Drive)** [View Portfolio](https://drive.google.com/file/d/1Ljq3JVP8R_xV68C79OOWysN8x1mjjL94/view?usp=sharing)
 
 More GitHub projects will be added soon as I continue building Laravel + React applications.
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Agustian-Star&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 <div align="center">
   <picture>
