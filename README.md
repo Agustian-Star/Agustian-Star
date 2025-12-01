@@ -2,8 +2,8 @@
 <p align="left">Fullstack Web Developer — Laravel & React.js 🚀 from Indonesia.</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agustiandwi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agustiandwi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Agustian-Star&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Agustian-Star&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <br>
@@ -34,7 +34,7 @@
 
 <h3 align="left">📧 Connect with Me</h3>
 <div align="left">
-  
+  <a href="#" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
   <img width="5" />
   <a href="#" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
   <img width="5" />
@@ -44,5 +44,5 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/agustiandwi/agustiandwi/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Agustian-Star/Agustian-Star/output/snake.svg" alt="Snake animation" />
 </div>
