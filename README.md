@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NiJfemltO0dGMHRvdnVidXV5eXB1N2ZwdWc2bzA2OW0GNkd2J20NHMSZLC21D9v9pbR1cm5hbF9naWZfyInlfaw0My3Q9Zw/f0nB9I0NQfwHE/giphy.gif" alt="welcome" />
+</div>
+
 <h2 align="left">👋 Hi! I'm **Agustian Dwi Putera**</h2>
 <p align="left">Fullstack Web Developer — Laravel & React.js 🚀 from Indonesia.</p>
 
@@ -8,15 +12,31 @@
 
 <br>
 
-<h3 align="left">🛠️ Tech Stack</h3>
+---
 
+## 🧑‍💻 About Me 
+* 💼 Fullstack Developer focused on **Laravel** (backend) and **React.js** (frontend) 
+* 🌱 Currently improving my modern frontend skills with React 
+* ⚡ I build: **REST APIs**, **authentication systems**, dashboards, CRUD apps, and responsive UI 
+* 🤝 Open for collaborations on fullstack or frontend projects 
+* 🎯 Goal: Master both PHP and JavaScript ecosystems 
+* ☕ Midnight coder powered by caffeine and curiosity 
+
+---
+
+## 🛠️ Tech Stack 
+
+<h3 align="left">Backend</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="30" alt="Laravel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo"  />
-  <img width="12" />
+</div>
+
+<h3 align="left">Frontend</h3>
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo"  />
@@ -24,13 +44,37 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo"  />
-  <img width="12" />
+</div>
+
+<h3 align="left">Tools & Workflow</h3>
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="NPM logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="30" alt="Composer logo"  />
 </div>
 
-<br>
+---
+
+## 🚀 Portfolio 
+Here are some of my works and documents: 
+
+* 📁 **Portfolio (Google Drive)** [View Portfolio](https://drive.google.com/file/d/1Ljq3JVP8R_xV68C79OOWysN8x1mjjL94/view?usp=sharing)
+
+More GitHub projects will be added soon as I continue building Laravel + React applications.
+
+---
+
+## 🔮 What I'm Currently Working On 
+* Building fullstack apps with **Laravel** (API) + **React** (frontend) 
+* Improving **UI/UX** and learning modern frontend patterns 
+* Experimenting with animations & aesthetic web design 
+* Expanding my skillset toward fullstack engineering 
+
+---
 
 <h3 align="left">📧 Connect with Me</h3>
 <div align="left">
@@ -43,8 +87,21 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Agustian-Star/Agustian-Star/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Agustian-Star/Agustian-Star/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Agustian-Star/Agustian-Star/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Agustian-Star/Agustian-Star/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Agustian-Star/Agustian-Star/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Agustian-Star/Agustian-Star/output/pacman-contribution-graph-dark.svg">
+  </picture>
+</div>
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Agustian-Star/Agustian-Star/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 🎉 Fun Fact 
+I code at **midnight** 🌙 and drink way too much **coffee** ☕
