@@ -17,11 +17,8 @@
 ## 🧑‍💻 About Me 
 * 💼 Fullstack Developer focused on **Laravel** (backend) and **React.js** (frontend) 
 * 🌱 Currently improving my modern frontend skills with React 
-* ⚡ I build: **REST APIs**, **authentication systems**, dashboards, CRUD apps, and responsive UI 
 * 🤝 Open for collaborations on fullstack or frontend projects 
-* 🎯 Goal: Master both PHP and JavaScript ecosystems 
 * ☕ Midnight coder powered by caffeine and curiosity 
-
 ---
 
 ## 🛠️ Tech Stack 
@@ -90,18 +87,8 @@ More GitHub projects will be added soon as I continue building Laravel + React a
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Agustian-Star/Agustian-Star/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Agustian-Star/Agustian-Star/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Agustian-Star/Agustian-Star/output/pacman-contribution-graph-dark.svg">
   </picture>
 </div>
 
 <br clear="both">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Agustian-Star/Agustian-Star/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
-## 🎉 Fun Fact 
-I code at **midnight** 🌙 and drink way too much **coffee** ☕
