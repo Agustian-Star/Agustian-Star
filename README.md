@@ -73,4 +73,17 @@ More GitHub projects will be added soon as I continue building Laravel + React a
 
 ---
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Agustian-Star&theme=dracula&border_radius=5" height="150" alt="streak graph" />
+</div>
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Agustian-Star/Agustian-Star/output/pacman-contribution-graph-dark.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Agustian-Star/Agustian-Star/output/pacman-contribution-graph-dark.svg">
+  </picture>
+</div>
+
 <br clear="both">
