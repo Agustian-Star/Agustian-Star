@@ -1,3 +1,13 @@
+name: Generate Profile Animations
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 */12 * * *"
+
 permissions:
   contents: write
 
@@ -12,6 +22,7 @@ jobs:
       - name: Create dist folder
         run: mkdir -p dist
 
+      # Generate Snake Graph
       - name: Generate snake.svg
         uses: Platane/snk@v3
         with:
@@ -19,13 +30,24 @@ jobs:
           outputs: |
             dist/snake.svg?palette=github-dark
 
-      - name: Generate Pacman graph (light mode)
+      # Generate Pacman Graph (Light)
+      - name: Generate Pacman graph (light)
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      - name: Generate Pacman graph (dark mode)
+      # Generate Pacman Graph (Dark)
+      - name: Generate Pacman graph (dark)
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
           theme: dark
+
+      # Push files to output branch
+      - name: Push generated files to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
