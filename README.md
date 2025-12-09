@@ -67,7 +67,7 @@ I’m currently learning and improving my skills in:
 ## 🚀 Portfolio
 Here are some of my works and documents:
 
-- 📁 **Portfolio (Google Drive)** – [View Portfolio](https://drive.google.com/file/d/1Ljq3JVP8R_xV68C79OOWysN8x1mjjL94/view?usp=sharing)
+- 📁 **Portfolio (Google Drive)** – [View Portfolio](https://drive.google.com/file/d/1qOBpFjYJs3Y8YAuWb4Z4DvO8kBaJNv-s/view?usp=sharing)
 
 More GitHub projects will be added soon as I continue building Laravel + React applications.
 
